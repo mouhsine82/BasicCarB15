@@ -9,5 +9,10 @@ public class Main {
         X.cylinders="8";
         X.size="1234cc";
         X.weight="654j";
+
+        lights light=new lights();
+        light.color="yellow";
+        light.size="Medium";
+        light.intensity="12umn";
     }
 }

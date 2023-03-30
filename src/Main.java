@@ -9,5 +9,10 @@ public class Main {
         X.cylinders="8";
         X.size="1234cc";
         X.weight="654j";
+
+        color col=new color();
+        col.colorLights="true";
+        col.colorTire="false";
+        col.colorWindows="true";
     }
 }

@@ -4,5 +4,10 @@ public class Main {
         audi.model="A3";
         audi.power="500cc";
         audi.color="Black";
+
+        Engine X=new Engine();
+        X.cylinders="8";
+        X.size="1234cc";
+        X.weight="654j";
     }
 }

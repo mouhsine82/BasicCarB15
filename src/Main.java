@@ -10,9 +10,16 @@ public class Main {
         X.size="1234cc";
         X.weight="654j";
 
+
         color col=new color();
         col.colorLights="true";
         col.colorTire="false";
         col.colorWindows="true";
+
+        lights light=new lights();
+        light.color="yellow";
+        light.size="Medium";
+        light.intensity="12umn";
+
     }
 }
